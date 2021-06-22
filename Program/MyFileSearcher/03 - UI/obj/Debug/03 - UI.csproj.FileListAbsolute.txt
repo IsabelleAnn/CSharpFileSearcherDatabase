@@ -1,0 +1,19 @@
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\03 - UI.exe.config
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\03 - UI.exe
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\03 - UI.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\01 - Data Access Layer.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\02 - Business Logic Layer.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\EntityFramework.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\Search.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\01 - Data Access Layer.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\01 - Data Access Layer.dll.config
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\02 - Business Logic Layer.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\Search.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\EntityFramework.xml
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\obj\Debug\03 - UI.csprojResolveAssemblyReference.cache
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\obj\Debug\03 - UI.csproj.CoreCompileInputs.cache
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\obj\Debug\03 - UI.exe
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\obj\Debug\03 - UI.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\03 - UI\bin\Debug\02 - Business Logic Layer.dll.config

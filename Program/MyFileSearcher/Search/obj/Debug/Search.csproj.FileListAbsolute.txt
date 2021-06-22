@@ -1,0 +1,6 @@
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\Search\bin\Debug\Search.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\Search\bin\Debug\Search.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\Search\obj\Debug\Search.csprojResolveAssemblyReference.cache
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\Search\obj\Debug\Search.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\Search\obj\Debug\Search.pdb

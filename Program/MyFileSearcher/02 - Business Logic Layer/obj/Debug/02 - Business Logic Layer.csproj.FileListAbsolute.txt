@@ -1,0 +1,14 @@
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\02 - Business Logic Layer.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\02 - Business Logic Layer.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\EntityFramework.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\01 - Data Access Layer.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll.config
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\EntityFramework.xml
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\obj\Debug\02 - Business Logic Layer.csprojResolveAssemblyReference.cache
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\obj\Debug\02 - Business Logic Layer.csproj.CoreCompileInputs.cache
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\obj\Debug\02 - Business Logic Layer.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\obj\Debug\02 - Business Logic Layer.pdb
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\02 - Business Logic Layer.dll.config
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Net Fullstack\Projects\C# Database Project\Program\MyFileSearcher\02 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
